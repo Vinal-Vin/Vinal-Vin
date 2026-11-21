@@ -52,6 +52,14 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Vinal-Vin&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6" alt="GitHub trophies" />
+
+</div>
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -60,8 +68,6 @@
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinal-Vin&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinal-Vin&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinal-Vin&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Contribution activity" />
 
 </div>
 
